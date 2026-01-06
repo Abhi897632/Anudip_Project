@@ -43,7 +43,7 @@ Dataset is available in the `data/` folder.
 ### 🏠 Landing Page
 Provides a high-level introduction and navigation to key dashboard sections.
 
-![Landing Page](screenshots/landing_page.png)
+![Landing Page](Screenshots/LandingPage.png)
 
 ---
 
@@ -62,7 +62,7 @@ Focuses on revenue and demand analysis.
 - Sales by Channel
 - Units Sold by Category
 
-![Overview Dashboard](screenshots/overview_dashboard.png)
+![Overview Dashboard](Screenshots/Overview.png)
 
 ---
 
@@ -81,7 +81,7 @@ Focused on inventory health and operational efficiency.
 - High-Risk SKU Table
 - Top Stores by Units Sold
 
-![Operations Dashboard](screenshots/operations_dashboard.png)
+![Operations Dashboard](Screenshots/Operations.png)
 
 ---
 
@@ -102,7 +102,7 @@ Focused on inventory health and operational efficiency.
 ---
 
 ## 🚀 How to Use
-1. Download the `Sales_Analysis.pbix` file
+1. Download the `FMCG_Dashboard.pbix` file
 2. Open it using **Power BI Desktop**
 3. Interact with slicers for Year, Category, and Channel
 4. Explore insights across Overview and Operations pages
