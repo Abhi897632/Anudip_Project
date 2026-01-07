@@ -43,7 +43,7 @@ Dataset is available in the `data/` folder.
 ### 🏠 Landing Page
 Provides a high-level introduction and navigation to key dashboard sections.
 
-![Landing Page](FMCG_Sales_Operations_Dashboard/Screenshots/LandingPage.png)
+![Landing Page](./Screenshots/LandingPage.png)
 
 ---
 
