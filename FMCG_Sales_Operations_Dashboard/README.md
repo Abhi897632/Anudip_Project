@@ -62,7 +62,7 @@ Focuses on revenue and demand analysis.
 - Sales by Channel
 - Units Sold by Category
 
-![Overview Dashboard](Screenshots/Overview.png)
+![Overview Dashboard](../Screenshots/Overview.png)
 
 ---
 
@@ -81,7 +81,7 @@ Focused on inventory health and operational efficiency.
 - High-Risk SKU Table
 - Top Stores by Units Sold
 
-![Operations Dashboard](Screenshots/Operations.png)
+![Operations Dashboard](../Screenshots/Operations.png)
 
 ---
 
