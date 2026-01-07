@@ -10,7 +10,7 @@ The dashboard helps business teams understand:
 - Stock-out risks and operational bottlenecks
 - Demand behavior across weekdays and weekends
 
-It is designed with a **management and operations decision-making perspective**, not just visual appeal.
+It is designed with a **management and operations decision-making perspective**.
 
 ---
 
@@ -43,7 +43,7 @@ Dataset is available in the `data/` folder.
 ### 🏠 Landing Page
 Provides a high-level introduction and navigation to key dashboard sections.
 
-![Landing Page](./Screenshots/LandingPage.png)
+![Landing Page](../Screenshots/LandingPage.png)
 
 ---
 
